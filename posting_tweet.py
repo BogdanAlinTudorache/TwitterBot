@@ -26,7 +26,7 @@ if len(tweet) <160:
     print('Posting tweet:', tweet,'\n')
     api.update_status(tweet)
 else:
-    print('Tweet is bigger than 150 characers, stopping...')
+    print('Tweet is bigger than 150 characters, stopping...')
     print(len(tweet))
     sys.exit()
     

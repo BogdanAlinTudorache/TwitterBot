@@ -1,2 +1,2 @@
 # TwitterBot
-Tutorial on how to create a twitter bot that replied to mentions
+Tutorial on how to create a twitter bot that replies to mentions.

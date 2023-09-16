@@ -1,7 +1,11 @@
 # TwitterBot
-Tutorial on how to create a twitter bot that replies to mentions.
+tl;dr: Tutorial on how to create a twitter bot that replies to mentions.
 
-The good stuff's in the [Wiki](https://github.com/BogdanAlinTudorache/TwitterBot/wiki) page. 
+Welcome to the world of Twitter bots! In this tutorial, I'll show you how to create a Twitter bot that can intelligently reply to mentions. Whether you're a developer looking to explore the possibilities of automation or just curious about Twitter bots, I've got you covered.
+
+The real treasure trove of information can be found in the [Wiki](https://github.com/BogdanAlinTudorache/TwitterBot/wiki) page, where we cover everything you need to know. From understanding what a bot is to obtaining a Twitter Developer account, installing Tweepy, authentication, posting tweets, and even handling API rate limits, our Wiki has it all.
+
+Let's dive into the fascinating realm of Twitter bots and get started on your journey to creating a bot that responds to mentions!
 
 Contents:
 1. What is a Bot?
